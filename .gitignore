@@ -1,0 +1,4 @@
+node_modules/
+dist/
+demo-laundry-shop/
+.env
